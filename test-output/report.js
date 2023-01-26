@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"ceaf3406-9b6c-416e-a6fa-d601c9ed32d7","feature":"To test Forgot Password functionality","scenario":"To validate the email successfully sent","start":1674656232395,"group":1,"content":"","tags":"@forgot,","end":1674656278385,"className":"passed"},{"id":"935140e3-021d-4103-a772-0e3d61ca6158","feature":"To test homepage functionality","scenario":"To validate the logo","start":1674656278408,"group":1,"content":"","tags":"@home,","end":1674656297646,"className":"failed"},{"id":"2cd21065-0512-432e-957f-97770971dc2c","feature":"To test AddToCart functionality","scenario":"To validate the successmsg","start":1674656165938,"group":1,"content":"","tags":"@cart,","end":1674656232245,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});

@@ -1,0 +1,2 @@
+file:src/test/resources/FeatureFiles/HomePage.feature:3
+file:src/test/resources/FeatureFiles/AddToCart.feature:12

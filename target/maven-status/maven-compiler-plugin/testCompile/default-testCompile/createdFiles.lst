@@ -1,0 +1,4 @@
+org\hooks\HooksClass.class
+org\testRunnerPkg\TestRunnerClass.class
+org\stepDefinitionPkg\HomePageSteps.class
+org\stepDefinitionPkg\LoginSteps.class

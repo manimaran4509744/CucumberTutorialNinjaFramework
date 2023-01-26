@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"67a1dd87-52ef-434e-b0c8-993bb7477046","feature":"To test login Functionality","scenario":"Valid Credentials","start":1674553221910,"group":1,"content":"","tags":"@valid,","end":1674553277070,"className":"passed"},{"id":"820833d4-b55c-47c5-a70f-c978602e78f8","feature":"To test homepage functionality","scenario":"To validate the logo","start":1674553166556,"group":1,"content":"","tags":"","end":1674553221882,"className":"passed"},{"id":"e8a9b0ca-c4f3-4d2d-97c9-6d8b1be369d7","feature":"To test login Functionality","scenario":"Invalid Credentials","start":1674553277120,"group":1,"content":"","tags":"@invalid,","end":1674553306845,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
